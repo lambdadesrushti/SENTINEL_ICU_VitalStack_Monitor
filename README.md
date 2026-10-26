@@ -17,6 +17,8 @@ High-acuity medical environments generate massive streams of physiological data.
 <img width="960" height="503" alt="Screenshot 2026-10-26 194110" src="https://github.com/user-attachments/assets/ee51ed4d-bc18-4195-8be3-68ed3f005458" />
 <img width="960" height="500" alt="Screenshot 2026-10-26 194129" src="https://github.com/user-attachments/assets/adf90dbb-48cd-4e97-8e83-fa2b96d68924" />
 <img width="960" height="499" alt="Screenshot 2026-10-26 194202" src="https://github.com/user-attachments/assets/062076ad-a0c2-41a7-a7c6-cd1ca7ebacad" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/e239d271-ba3f-40d6-97ae-48290ac6fa74" />
+
 
 ---
 
